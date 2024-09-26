@@ -1,0 +1,1401 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mert\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlogApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\css\\templatemo-stand-blog.css",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\css\\templatemo-stand-blog.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\about-us.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\banner-item-01.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\banner-item-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\banner-item-02.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\banner-item-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\banner-item-03.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\banner-item-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\banner-item-04.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\banner-item-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\banner-item-05.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\banner-item-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\banner-item-06.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\banner-item-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\blog-post-01.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\blog-post-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\blog-post-02.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\blog-post-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\blog-post-03.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\blog-post-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\blog-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\blog-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\blog-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\blog-thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\blog-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\blog-thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\blog-thumb-04.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\blog-thumb-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\blog-thumb-05.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\blog-thumb-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\blog-thumb-06.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\blog-thumb-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\comment-author-01.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\comment-author-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\comment-author-02.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\comment-author-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\comment-author-03.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\comment-author-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\images\\heading-bg.jpg",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\images\\heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\StandBlog\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\StandBlog\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\StandBlog\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\StandBlog\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\StandBlog\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\auth-forgot-password-basic.html",
+      "PackagePath": "staticwebassets\\html\\auth-forgot-password-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\auth-login-basic.html",
+      "PackagePath": "staticwebassets\\html\\auth-login-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\auth-register-basic.html",
+      "PackagePath": "staticwebassets\\html\\auth-register-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\cards-basic.html",
+      "PackagePath": "staticwebassets\\html\\cards-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\extended-ui-perfect-scrollbar.html",
+      "PackagePath": "staticwebassets\\html\\extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\extended-ui-text-divider.html",
+      "PackagePath": "staticwebassets\\html\\extended-ui-text-divider.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\form-layouts-horizontal.html",
+      "PackagePath": "staticwebassets\\html\\form-layouts-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\form-layouts-vertical.html",
+      "PackagePath": "staticwebassets\\html\\form-layouts-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\forms-basic-inputs.html",
+      "PackagePath": "staticwebassets\\html\\forms-basic-inputs.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\forms-input-groups.html",
+      "PackagePath": "staticwebassets\\html\\forms-input-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\icons-boxicons.html",
+      "PackagePath": "staticwebassets\\html\\icons-boxicons.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\index.html",
+      "PackagePath": "staticwebassets\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\layouts-blank.html",
+      "PackagePath": "staticwebassets\\html\\layouts-blank.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\layouts-container.html",
+      "PackagePath": "staticwebassets\\html\\layouts-container.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\layouts-fluid.html",
+      "PackagePath": "staticwebassets\\html\\layouts-fluid.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\layouts-without-menu.html",
+      "PackagePath": "staticwebassets\\html\\layouts-without-menu.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\layouts-without-navbar.html",
+      "PackagePath": "staticwebassets\\html\\layouts-without-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\pages-account-settings-account.html",
+      "PackagePath": "staticwebassets\\html\\pages-account-settings-account.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\pages-account-settings-connections.html",
+      "PackagePath": "staticwebassets\\html\\pages-account-settings-connections.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\pages-account-settings-notifications.html",
+      "PackagePath": "staticwebassets\\html\\pages-account-settings-notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\pages-misc-error.html",
+      "PackagePath": "staticwebassets\\html\\pages-misc-error.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\pages-misc-under-maintenance.html",
+      "PackagePath": "staticwebassets\\html\\pages-misc-under-maintenance.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\tables-basic.html",
+      "PackagePath": "staticwebassets\\html\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-accordion.html",
+      "PackagePath": "staticwebassets\\html\\ui-accordion.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\html\\ui-alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-badges.html",
+      "PackagePath": "staticwebassets\\html\\ui-badges.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\html\\ui-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\html\\ui-carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-collapse.html",
+      "PackagePath": "staticwebassets\\html\\ui-collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-dropdowns.html",
+      "PackagePath": "staticwebassets\\html\\ui-dropdowns.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-footer.html",
+      "PackagePath": "staticwebassets\\html\\ui-footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-list-groups.html",
+      "PackagePath": "staticwebassets\\html\\ui-list-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-modals.html",
+      "PackagePath": "staticwebassets\\html\\ui-modals.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-navbar.html",
+      "PackagePath": "staticwebassets\\html\\ui-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-offcanvas.html",
+      "PackagePath": "staticwebassets\\html\\ui-offcanvas.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-pagination-breadcrumbs.html",
+      "PackagePath": "staticwebassets\\html\\ui-pagination-breadcrumbs.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-progress.html",
+      "PackagePath": "staticwebassets\\html\\ui-progress.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\html\\ui-spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-tabs-pills.html",
+      "PackagePath": "staticwebassets\\html\\ui-tabs-pills.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\html\\ui-toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\html\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\html\\ui-typography.html",
+      "PackagePath": "staticwebassets\\html\\ui-typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\imeges\\User-images\\ahmettterahmetela_649.jpg",
+      "PackagePath": "staticwebassets\\imeges\\User-images\\ahmettterahmetela_649.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\imeges\\article-images\\cccc_127.jpg",
+      "PackagePath": "staticwebassets\\imeges\\article-images\\cccc_127.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\imeges\\article-images\\ddddddddd_233.jpg",
+      "PackagePath": "staticwebassets\\imeges\\article-images\\ddddddddd_233.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\imeges\\article-images\\iiiiiiiii_632.jpg",
+      "PackagePath": "staticwebassets\\imeges\\article-images\\iiiiiiiii_632.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\imeges\\article-images\\kkk_38.jpg",
+      "PackagePath": "staticwebassets\\imeges\\article-images\\kkk_38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\imeges\\article-images\\lll_830.jpg",
+      "PackagePath": "staticwebassets\\imeges\\article-images\\lll_830.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\imeges\\article-images\\lllllllllll_676.jpg",
+      "PackagePath": "staticwebassets\\imeges\\article-images\\lllllllllll_676.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\imeges\\article-images\\mertdeneme_582.jpg",
+      "PackagePath": "staticwebassets\\imeges\\article-images\\mertdeneme_582.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\js\\CategoryIndex.js",
+      "PackagePath": "staticwebassets\\js\\CategoryIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\js\\DashboardIndex.js",
+      "PackagePath": "staticwebassets\\js\\DashboardIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\jss\\bootstrap.js",
+      "PackagePath": "staticwebassets\\jss\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\jss\\helpers.js",
+      "PackagePath": "staticwebassets\\jss\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\jss\\menu.js",
+      "PackagePath": "staticwebassets\\jss\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\scss\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\scss\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\tasks\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\MeetingApp\\wwwroot\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\tasks\\prod.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlogApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlogApp.props",
+      "PackagePath": "build\\BlogApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogApp.props",
+      "PackagePath": "buildMultiTargeting\\BlogApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlogApp.props",
+      "PackagePath": "buildTransitive\\BlogApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

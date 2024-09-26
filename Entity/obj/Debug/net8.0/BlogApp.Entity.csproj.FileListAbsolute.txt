@@ -1,0 +1,45 @@
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\bin\Debug\net8.0\BlogApp.Entity.deps.json
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\bin\Debug\net8.0\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\bin\Debug\net8.0\BlogApp.Entity.pdb
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\obj\Debug\net8.0\BlogApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\obj\Debug\net8.0\BlogApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\obj\Debug\net8.0\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\obj\Debug\net8.0\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\obj\Debug\net8.0\BlogApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\obj\Debug\net8.0\BlogApp..B04D1E0E.Up2Date
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\obj\Debug\net8.0\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\obj\Debug\net8.0\refint\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\obj\Debug\net8.0\BlogApp.Entity.pdb
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\Entity\obj\Debug\net8.0\ref\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\bin\Debug\net8.0\BlogApp.Entity.deps.json
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\bin\Debug\net8.0\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\bin\Debug\net8.0\BlogApp.Entity.pdb
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\obj\Debug\net8.0\BlogApp..B04D1E0E.Up2Date
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\obj\Debug\net8.0\refint\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.pdb
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\Entity\obj\Debug\net8.0\ref\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\bin\Debug\net8.0\BlogApp.Entity.deps.json
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\bin\Debug\net8.0\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\bin\Debug\net8.0\BlogApp.Entity.pdb
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\obj\Debug\net8.0\BlogApp..B04D1E0E.Up2Date
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\obj\Debug\net8.0\refint\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\obj\Debug\net8.0\BlogApp.Entity.pdb
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\Entity\obj\Debug\net8.0\ref\BlogApp.Entity.dll

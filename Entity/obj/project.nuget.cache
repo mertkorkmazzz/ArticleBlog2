@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "FAaGKlmKK7FZXj64DiZARLLLlwSqj4twhVjHMe3Vqrvt3g96J+TPyXuQeYRcoovp1fckcFnQ4cKuvP1o2/C8gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mert\\Desktop\\GİTHUBE ATILACAKLAR\\BlogApp\\Entity\\BlogApp.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.6\\microsoft.aspnetcore.cryptography.internal.8.0.6.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.6\\microsoft.aspnetcore.cryptography.keyderivation.8.0.6.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.6\\microsoft.extensions.identity.core.8.0.6.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.6\\microsoft.extensions.identity.stores.8.0.6.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

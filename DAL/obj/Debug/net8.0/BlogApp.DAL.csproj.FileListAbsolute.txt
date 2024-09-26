@@ -1,0 +1,57 @@
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\bin\Debug\net8.0\BlogApp.DAL.deps.json
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\bin\Debug\net8.0\BlogApp.DAL.runtimeconfig.json
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\bin\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\bin\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\bin\Debug\net8.0\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\bin\Debug\net8.0\BlogApp.Entity.pdb
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\BlogApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfo.cs
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\BlogApp..7F175FDC.Up2Date
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\refint\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\BlogApp.DAL.genruntimeconfig.cache
+C:\Users\Mert\Desktop\HomeProjeler\MeetingApp\DAL\obj\Debug\net8.0\ref\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\bin\Debug\net8.0\BlogApp.DAL.deps.json
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\bin\Debug\net8.0\BlogApp.DAL.runtimeconfig.json
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\bin\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\bin\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\bin\Debug\net8.0\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\bin\Debug\net8.0\BlogApp.Entity.pdb
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfo.cs
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\BlogApp..7F175FDC.Up2Date
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\refint\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.genruntimeconfig.cache
+C:\Users\Mert\Desktop\HomeProjeler\BlogApp\DAL\obj\Debug\net8.0\ref\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\bin\Debug\net8.0\BlogApp.DAL.deps.json
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\bin\Debug\net8.0\BlogApp.DAL.runtimeconfig.json
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\bin\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\bin\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\bin\Debug\net8.0\BlogApp.Core.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\bin\Debug\net8.0\BlogApp.Entity.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\bin\Debug\net8.0\BlogApp.Entity.pdb
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\bin\Debug\net8.0\BlogApp.Core.pdb
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.AssemblyInfo.cs
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\BlogApp..7F175FDC.Up2Date
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\refint\BlogApp.DAL.dll
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.pdb
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\BlogApp.DAL.genruntimeconfig.cache
+C:\Users\Mert\Desktop\GİTHUBE ATILACAKLAR\BlogApp\DAL\obj\Debug\net8.0\ref\BlogApp.DAL.dll
